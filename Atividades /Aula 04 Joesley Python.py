@@ -22,6 +22,13 @@ def buscar_usuario(cadastrados, nomes, idades):
             print(f"Idade: {idades[i]}")
             print(f"Posição: {i}")
             print("-------------------------")
+            print("Deletar usuario? (S/N)")
+            resposta = input().upper()
+            if resposta == "S":
+                del nomes[i]
+                del idades[i]
+                cadastrados -= 1
+                print("Usuario deletado com sucesso!")
             break
     else:
         print("Usuario nao encontrado!")
