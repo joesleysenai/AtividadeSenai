@@ -11,7 +11,7 @@ struct Usuario {
 void adicionarUsuario(struct Usuario** inicio, char* nome, int idade) {
     struct Usuario* novoUsuario = (struct Usuario*) malloc(sizeof(struct Usuario));
     if (novoUsuario == NULL) {
-        printf("Erro ao alocar memória!\n");
+        printf("Erro ao alocar memÃ³ria!\n");
         return;
     }
     strcpy(novoUsuario->nome, nome);
