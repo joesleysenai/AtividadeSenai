@@ -1,14 +1,10 @@
-👨‍💻 Joesley Cálita
-
 📚 Repositório de Atividades e Projetos — SENAI
 
-Olá! Eu sou Joesley Cálita, aluno do SENAI.
+👨‍💻 Olá! Eu sou Joesley Cálita, aluno do SENAI.
 
 Este repositório foi criado com o objetivo de organizar, documentar e acompanhar minha evolução durante o curso. Aqui serão adicionadas atividades, exercícios, projetos e outros trabalhos desenvolvidos ao longo da formação.
 
-🎯 Objetivo
-
-Registrar minha jornada de aprendizado, colocando em prática os conhecimentos adquiridos durante as aulas e acompanhando minha evolução profissional e técnica.
+🎯 Objetivo: Registrar minha jornada de aprendizado, colocando em prática os conhecimentos adquiridos durante as aulas e acompanhando minha evolução profissional e técnica.
 
 📂 Conteúdo do Repositório
 
