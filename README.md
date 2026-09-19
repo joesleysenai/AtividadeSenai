@@ -35,3 +35,6 @@ Este repositório estará em constante atualização conforme o andamento do cur
 📅 Período: 2026.2
 
 ⭐ Este repositório será atualizado ao longo do curso com novos projetos e atividades.
+
+Clonar repositório:
+git-clone https://github.com/joesleysenai/AtividadeSenai
