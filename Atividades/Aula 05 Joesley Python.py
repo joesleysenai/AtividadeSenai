@@ -61,8 +61,8 @@ def exibir_menu():
     print("1 - Cadastrar novo usuario")
     print("2 - Listar todos os usuarios cadastrados")
     print("3 - Buscar usuario")
-    print("4 - Sair do sistema")
-    print("5 - Remover usuario")
+    print("4 - Remover usuario")
+    print("5 - Sair do sistema")
 
 
 def main():
@@ -79,7 +79,7 @@ def main():
 
     opcao = 0
 
-    while opcao != 4:
+    while opcao != 5:
         exibir_menu()
         opcao = int(input("Opcao: "))
 
@@ -106,10 +106,10 @@ def main():
         elif opcao == 3:
             buscar_usuario(cadastrados, nomes, idades)
 
-        elif opcao == 5:
+        elif opcao == 4:
             cadastrados = remover_usuario(cadastrados, nomes, idades)
 
-        elif opcao == 4:
+        elif opcao == 5:
             print("Encerrando o sistema...")
             return
         else:
